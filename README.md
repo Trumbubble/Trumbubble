@@ -12,7 +12,7 @@ fields_of_interest:
     "UI/UX"
   ]
 
-currently_learning: ["AWS", "Docker", "Spring Boot"]
+currently_learning: ["AWS", "Docker", "Spring Boot", "CNN", "TensorFlow"]
 
 ```
 
