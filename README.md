@@ -52,17 +52,30 @@ email: ttorubarov@gmail.com
 linkedin: https://www.linkedin.com/in/timothy-torubarov/
 ```
 
-<!--
-**Trumbubble/Trumbubble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Some Featured Projects</h2>
 
-Here are some ideas to get you started:
+```yaml
+name: ProteinRisk
+url: https://github.com/PixelSergey/ProteinRisk
+description: Multi-layered protein risk evaluation using statistical metrics and MLP probes.
+award: 2nd Place — Oxbridge Varsity Hackathon
+stack: [Python, Flask, Scikit-Learn, PyTorch]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+name: FluxStudy
+url: https://github.com/DefaultDucky/biohackathon
+description: AI-powered study recommendation engine using biometric and subjective data.
+award: 2nd Place — AI x Biohacking/Longevity Hackathon
+stack: [Python, JavaScript, React, OpenCV, Flask]
+
+name: URL Shortener
+url: https://github.com/Trumbubble/URL-Shortener-Web
+description: Full-stack URL shortening platform with a scalable schema and Dockerized deployment.
+stack: [Java, JavaScript, React, Spring Boot, PostgreSQL, Docker]
+
+name: Taylor's Theorem Simulation
+url: https://github.com/Trumbubble/Taylors_Formula_Simulation
+description: Interactive visualization of Taylor series approximations for arbitrary functions.
+stack: [Python, NumPy, Matplotlib, SymPy]
+  
+```
+
